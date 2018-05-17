@@ -10,7 +10,7 @@ import nl.example.coolgame.CoolGame;
  * up a square when touched, unless a rock is in their path.
  * 
  * @author Paul de Groot
- * @author Jan Stroet
+ * @author Jan Stroet hhh
  */
 public class Leaf extends GameObject {
 	public static final String LEAF_IMAGE = "Leaf";
